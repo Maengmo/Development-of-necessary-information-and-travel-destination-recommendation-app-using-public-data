@@ -1,6 +1,6 @@
-# 🐾애니밍글(Animingle)🐾
-### 동물과 사람들이 어울리는 공간을 만들어주는 펫 관련 플랫폼<br>
-![image](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/5d99e022-0644-445a-8757-a7af28de4658)
+# 🐾바로여기(AnyHERE)🐾
+### 다양한 여행지의 필요한 정보들을 담은 여행지앱 개발<br>
+![image](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/f991d496-374b-4615-b1b6-7d0a398d9b37)
 
 <br>
 
@@ -51,15 +51,15 @@
 
 ## 📱 어플리케이션 구성 
 #### 핫플레이스 & 카페
-![핫플레이스 & 카페](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/fb72a4bd-b026-4af0-9c29-602b2c3f7b9d)
+![핫플레이스 & 카페](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/a422a44b-8281-4345-9967-fb2802ffb059)
 
 #### 핫플레이스 & 카페 상세보기
-![핫플레이스 & 카페 상세보기](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/396f15a5-4bff-4139-b907-3b87a141ac80)
+![핫플레이스 & 카페 상세보기](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/1c40c548-8e18-41e8-8a90-5f36e965f306)
 
 #### 흡연장 & 주차장 & 화장실 찾기
-![흡연장 & 주차장 & 화장실 찾기](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/ebeeac23-9d32-4d32-82c4-036c2637273b)
+![흡연장 & 주차장 & 화장실 찾기](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/0e2bd5d2-599a-4150-93d8-4ac7431c2ba7)
 
 #### 일정 및 메모
-![일정 및 메모](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/d2293161-997a-4901-9f14-adb49465d929)
+![일정 및 메모](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/273082e8-e55a-4caf-b765-ff091397aaaf)
 
 <br>
