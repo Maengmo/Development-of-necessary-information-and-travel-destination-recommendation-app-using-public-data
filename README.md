@@ -1,4 +1,4 @@
-# 🐾바로여기(AnyHERE)🐾
+# 👉 바로여기(AnyHERE) 👈
 ### 다양한 여행지의 필요한 정보들을 담은 여행지앱 개발<br>
 ![image](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/f991d496-374b-4615-b1b6-7d0a398d9b37)
 
@@ -50,16 +50,22 @@
 <br>
 
 ## 📱 어플리케이션 구성 
-#### 핫플레이스 & 카페
+#### ♦ 핫플레이스 & 카페
 ![핫플레이스 & 카페](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/a422a44b-8281-4345-9967-fb2802ffb059)
 
-#### 핫플레이스 & 카페 상세보기
+<br>
+
+#### ♦ 핫플레이스 & 카페 상세보기
 ![핫플레이스 & 카페 상세보기](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/1c40c548-8e18-41e8-8a90-5f36e965f306)
 
-#### 흡연장 & 주차장 & 화장실 찾기
+<br>
+
+#### ♦ 흡연장 & 주차장 & 화장실 찾기
 ![흡연장 & 주차장 & 화장실 찾기](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/0e2bd5d2-599a-4150-93d8-4ac7431c2ba7)
 
-#### 일정 및 메모
+<br>
+
+#### ♦ 일정 및 메모
 ![일정 및 메모](https://github.com/Maengmo/Development-of-necessary-information-and-travel-destination-recommendation-app-using-public-data/assets/117720344/273082e8-e55a-4caf-b765-ff091397aaaf)
 
 <br>
